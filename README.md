@@ -2,8 +2,8 @@
 
 #Team
 
-Martha Mohlala
-Lerato Molokomme
-Innocent Mabaso
-Judith Ramahuta
-Prudence Rasethuntsha
+1.Martha Mohlala
+2.Lerato Molokomme
+3.Innocent Mabaso
+4.Judith Ramahuta
+5.Prudence Rasethuntsha
