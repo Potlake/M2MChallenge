@@ -1,9 +1,9 @@
 # M2MChallenge
 
-#Team
+### Team ###
 
--**1.Martha Mohlala**
--**2.Lerato Molokomme**
--**3.Innocent Mabaso**
--**4.Judith Ramahuta**
--**5.Prudence Rasethuntsha**
+* Martha Mohlala
+*	Lerato Molokomme
+*	Innocent Mabaso
+*	Judith Ramahuta
+*	Prudence Rasethuntsha
